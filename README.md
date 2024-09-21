@@ -10,10 +10,10 @@
 </div>
 
 <a href="https://github.com/bastosanaa/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=bastosanaa&hide=prs,issues,contribs&show_icons=true&theme=omni" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=bastosanaa&hide=prs,issues,contribs&show_icons=true&theme=omni" />
 </a>
 <a href="https://github.com/bastosanaa/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bastosanaa&layout=compact&langs_count=8&card_width=320&theme=omni&hide=java,HTML,dockerfile,roff" />
+  <img height=120 width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bastosanaa&layout=compact&langs_count=8&card_width=320&theme=omni&hide=java,HTML,dockerfile,roff" />
 </a>
 
 ####
