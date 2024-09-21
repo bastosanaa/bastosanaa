@@ -26,6 +26,17 @@
   <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 </div>
 
+##
+
+#### Connect with me! 💻💙
+<a href='https://www.linkedin.com/in/ana-bastos-7b0103272/'>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+####
+
+> You can also reach me via email at bastosanaa11@gmail.com
+
 
 
 
