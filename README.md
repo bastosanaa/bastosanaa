@@ -1,7 +1,7 @@
 ## Hiii, I'm Ana ;) 
 
 - 🎯 I’m currently working on __FullStack Web Development__
-- 🌱 I’m currently learning React and TypeScript
+- 🌱 I’m currently learning Vue, React and TypeScript
 
 --> __Fun fact__: I've got a tattoo of a ghost chilling with a cup of coffee! 👻☕
 
