@@ -1,7 +1,7 @@
 ## Hiii, I'm Ana ;) 
 
 - 🎯 I’m currently working on __FullStack Web Development__
-- 🌱 I’m currently learning Vue, React and TypeScript
+- 🌱 I’m currently learning React and Django
 
 --> __Fun fact__: I've got a tattoo of a ghost chilling with a cup of coffee! 👻☕
 
@@ -25,6 +25,7 @@
    <code><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
   <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
   <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 </div>
 
 ##
