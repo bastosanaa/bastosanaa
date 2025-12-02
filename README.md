@@ -1,13 +1,14 @@
+## Hiii, I'm Ana ;) 
+
 <div >
   <img height="180em" src="gatito.png" align='right'/>
 </div>
-
-## Hiii, I'm Ana ;) 
 
 - 🎯 I’m currently working on __FullStack Web Development__
 - 🌱 I’m currently focusing on Java + Spring
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F69BF7&center=true&vCenter=true&width=420&lines=Java+%2B+Spring+Boot+%3C3)](https://git.io/typing-svg)
+
 
 --> __Fun fact__: I've got a tattoo of a ghost chilling with a cup of coffee! 👻☕
 
