@@ -1,20 +1,22 @@
-## Hiii, I'm Ana ;) 
-
-- 🎯 I’m currently working on __FullStack Web Development__
-- 🌱 I’m currently learning Angular and Java
-
---> __Fun fact__: I've got a tattoo of a ghost chilling with a cup of coffee! 👻☕
-
 <div >
   <img height="180em" src="gatito.png" align='right'/>
 </div>
+## Hiii, I'm Ana ;) 
 
-<a href="https://github.com/bastosanaa/github-readme-stats">
+- 🎯 I’m currently working on __FullStack Web Development__
+- 🌱 I’m currently focusing on Java + Spring
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F69BF7&center=true&vCenter=true&width=420&lines=Java+%2B+Spring+Boot+%3C3)](https://git.io/typing-svg)
+
+--> __Fun fact__: I've got a tattoo of a ghost chilling with a cup of coffee! 👻☕
+
+
+<!-- <a href="https://github.com/bastosanaa/github-readme-stats">
   <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=bastosanaa&hide=prs,issues,contribs&show_icons=true&theme=omni" />
 </a>
 <a href="https://github.com/bastosanaa/convoychat">
   <img height=120 width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bastosanaa&layout=compact&langs_count=8&card_width=320&theme=omni&hide=java,HTML,dockerfile,roff" />
-</a>
+</a> -->
 
 ####
 
